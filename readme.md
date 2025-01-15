@@ -1,0 +1,1 @@
+OrbitPro é uma plataforma de gestão de projetos moderna e flexível, desenvolvida para times ágeis que buscam eficiência e organização. Com um design intuitivo e funcionalidades que acompanham o ciclo completo de um projeto, o OrbitPro ajuda equipes de qualquer setor a manter suas tarefas em movimento, rastrear progresso e alcançar resultados.
